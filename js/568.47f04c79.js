@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhmmm_frontend_vue3_dev"]=self["webpackChunkhmmm_frontend_vue3_dev"]||[]).push([[568],{17568:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(73396);const u={class:"container"};function c(n,e,r,c,s,a){return(0,t.wg)(),(0,t.iD)("div",u,"精选题库")}var s={},a=r(40089);const d=(0,a.Z)(s,[["render",c]]);var f=d}}]);
+//# sourceMappingURL=568.47f04c79.js.map

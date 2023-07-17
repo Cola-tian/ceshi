@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhmmm_frontend_vue3_dev"]=self["webpackChunkhmmm_frontend_vue3_dev"]||[]).push([[838],{82838:function(e,n,o){o.r(n),o.d(n,{default:function(){return i}});var t={name:"authredirect",created(){const e=window.location.search.slice(1);window.opener.location.href=window.location.origin+"/login#"+e,window.close()}};const c=t;var i=c}}]);
+//# sourceMappingURL=838.3b56d2c4.js.map
